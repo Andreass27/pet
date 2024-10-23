@@ -2,7 +2,7 @@ import { SCAN_DATA } from "../constans"
 
 
 
-console.log(dataHistory)
+// console.log(dataHistory)
 export const ScanHistory = () =>{
     return(
         <div>scan</div>
